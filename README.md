@@ -45,5 +45,8 @@ The user is directed to the Homapage after signin which looks like:
   * We also provide the user with an option to ADD their interview Experience.
   ![add_exp](https://user-images.githubusercontent.com/68590733/108620883-0c292f80-7455-11eb-8af8-d75e374ab5d3.png)
 
-
+### Role based User Control
+  * The visitors to the website cannot access the Admin panel
+  * Only the Admins will be able to make changes in the admin panel
+  
 
