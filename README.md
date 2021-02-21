@@ -10,7 +10,7 @@ The user is directed to the Homapage after signin which looks like:
 
 ![HomePage](https://user-images.githubusercontent.com/68590733/108620870-fd427d00-7454-11eb-83d9-9f673b3a10aa.png)
 
-### Coding Section
+### 1.Coding Section
 * The key component in preparation for interns and placements is the coding round.
 * Thus this requires a good amount amount of practice.
 * The website has various topics and questions enlisted in it for topic wise practice 
@@ -28,7 +28,7 @@ The user is directed to the Homapage after signin which looks like:
 
 
 
-### Interview Experiences Section
+### 2.Interview Experiences Section
   ![Intervirew_exp](https://user-images.githubusercontent.com/68590733/108620894-19461e80-7455-11eb-94c0-6c5d80dfa9ab.png)
 
   #### Companies 
