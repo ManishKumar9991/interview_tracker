@@ -26,19 +26,17 @@ The user is directed to the Homapage after signin which looks like:
 ![Intervirew_exp](https://user-images.githubusercontent.com/68590733/108620894-19461e80-7455-11eb-94c0-6c5d80dfa9ab.png)
 
 
-> This section has a list of companies that have recruited from different campuses 
-
-
+> This section has a list of companies that have recruited from different campuses across the country 
+> On clicking on the explore button the list of students placed in that Company are shown
 ![companies](https://user-images.githubusercontent.com/68590733/108620887-121f1080-7455-11eb-8888-ca926e2c432f.png)
 
-> Within in each company we have a list of students that have been hired in the past and thier detailed interview experience
 
-
+> Within in each company we have a list of students that have been hired in the past
+> On clicking on the Read More button thier detailed interview experience is shown
 ![experiences](https://user-images.githubusercontent.com/68590733/108620888-13503d80-7455-11eb-89c0-d8ac3a093161.png)
 
-> We provide the user with an option to add their interview Experience.
 
-
+> We also provide the user with an option to ADD their interview Experience.
 ![add_exp](https://user-images.githubusercontent.com/68590733/108620883-0c292f80-7455-11eb-8af8-d75e374ab5d3.png)
 
 
