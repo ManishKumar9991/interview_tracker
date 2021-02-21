@@ -16,15 +16,20 @@ The user is directed to the Homapage after signin which looks like:
 * The website has various topics and questions enlisted in it for topic wise practice 
 ![Practice](https://user-images.githubusercontent.com/68590733/108620896-1f3bff80-7455-11eb-9e80-a1cd799bb240.png)
 
+  #### Coding Topics
+  * Questions have been well classified in different Topics
+  * On clicking on the explore button the questions of that particular topic is shown
+  ![Topics](https://user-images.githubusercontent.com/68590733/108620900-295dfe00-7455-11eb-8eca-41dd59daddc1.png)
+  
+  #### Topic Questions
+  * Within in each Programming Topic we have a list of questions 
+  * Another added Adventage is that Questions can be added from different sources and platforms
+  ![questions](https://user-images.githubusercontent.com/68590733/108620899-282cd100-7455-11eb-84a2-61e4dde80546.png)
 
-![Topics](https://user-images.githubusercontent.com/68590733/108620900-295dfe00-7455-11eb-8eca-41dd59daddc1.png)
 
-![questions](https://user-images.githubusercontent.com/68590733/108620899-282cd100-7455-11eb-84a2-61e4dde80546.png)
-
-
-
-* We provide the user with an option to add questions from different sources if they wish to do so
-![add_question](https://user-images.githubusercontent.com/68590733/108620886-10554d00-7455-11eb-9912-b0166ae4fb23.png)
+  #### Option to add a coding Question
+  * We provide the user with an option to add questions from different sources if they wish to do so
+  ![add_question](https://user-images.githubusercontent.com/68590733/108620886-10554d00-7455-11eb-9912-b0166ae4fb23.png)
 
 
 
