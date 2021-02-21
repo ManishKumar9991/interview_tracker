@@ -1,5 +1,8 @@
 # Interview Tracker 
-My first project with Coding Club where we built One-stop solution to interviews
+My first project with Coding Club where we built One-stop solution to interviews.
+* Most of the students face difficulties while preparing for interviews, since they do not get all essential 
+  material to prepare at the same website.
+* So we came up with Awesome website. From coding questions to interview experiences. This webite has it all
 
 ## Homepage
 The user is directed to the Homapage after signin which looks like:
