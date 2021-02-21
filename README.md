@@ -55,5 +55,9 @@ The user is directed to the Homapage after signin which looks like:
   * Only the Admins will be able to make changes in the admin panel
   ![Access denied](https://user-images.githubusercontent.com/68590733/108624247-c2970f80-7469-11eb-9790-d67dc58b82f4.png)
 
+### If a non existing page is accessed
+* If user requests a webpage which does not exist then, the following is shown:
+![404](https://user-images.githubusercontent.com/68590733/108624880-a1d0b900-746d-11eb-99e0-f050cb8ec364.png)
 
+# Thankyou for Reading !
 
