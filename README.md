@@ -60,4 +60,3 @@ The user is directed to the Homapage after signin which looks like:
 ![404](https://user-images.githubusercontent.com/68590733/108624880-a1d0b900-746d-11eb-99e0-f050cb8ec364.png)
 
 # Thankyou for Reading !
-![404](https://user-images.githubusercontent.com/68590733/122406716-ae3dcc00-cf9e-11eb-80fe-4f01b51b6690.png)
